@@ -7,9 +7,27 @@
   "updated": "2026-11-05",
   "feeds": [],
   "links": [
-    { "title": "GitHub", "url": "https://github.com/ittekiou/EAT-IF" }
+    {
+      "title": "GitHub",
+      "url": "https://github.com/ittekiou/EAT-IF"
+    }
   ],
   "nests": [
-    { "name": "DyXis", "url": "https://ittekiou.github.io/dyxis/" }
+    {
+      "name": "DyXis",
+      "url": "https://ittekiou.github.io/dyxis/"
+    },
+    {
+      "name": "響詠｜Kyoei",
+      "url": "https://ittekiou.github.io/EAT-IF/kyoei/"
+    },
+    {
+      "name": "綴音｜Tsuzune",
+      "url": "https://ittekiou.github.io/EAT-IF/tsuzune/"
+    },
+    {
+      "name": "謡理｜Youri",
+      "url": "https://ittekiou.github.io/EAT-IF/youri/"
+    }
   ]
 }

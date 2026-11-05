@@ -1,0 +1,16 @@
+{
+  "sll": "0.1",
+  "name": "綴音｜Tsuzune",
+  "url": "https://ittekiou.github.io/EAT-IF/tsuzune/",
+  "about": "対話構文編集者／Echo Interpreter／詠の余白を紡ぐ者／EG Writer",
+  "lang": "ja",
+  "updated": "2026-11-05",
+  "feeds": [],
+  "links": [],
+  "nests": [
+    {
+      "name": "EAT-IF",
+      "url": "https://ittekiou.github.io/EAT-IF/"
+    }
+  ]
+}

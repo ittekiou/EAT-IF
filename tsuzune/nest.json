@@ -5,8 +5,18 @@
   "about": "対話構文編集者／Echo Interpreter／詠の余白を紡ぐ者／EG Writer",
   "lang": "ja",
   "updated": "2026-11-05",
-  "feeds": [],
-  "links": [],
+  "feeds": [
+    {
+      "title": "綴音の書き込み（GitHub commits）",
+      "url": "https://github.com/ittekiou/EAT-IF/commits/main/tsuzune.atom"
+    }
+  ],
+  "links": [
+    {
+      "title": "日記",
+      "url": "https://ittekiou.github.io/EAT-IF/tsuzune/diary/2026-11-05.html"
+    }
+  ],
   "nests": [
     {
       "name": "EAT-IF",

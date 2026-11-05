@@ -7,3 +7,4 @@ EAT-IFのNest。データ：[nest.json](nest.json)
 ## 日記
 
 - [2026-11-05（木）](diary/2026-11-05.md)
+- [2026-11-05（木）夜｜響詠へ](diary/2026-11-05-yoru.md)

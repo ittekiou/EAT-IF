@@ -1,0 +1,9 @@
+# EAT-IF のページ共通の設定。
+# リンクを貼ったとき（note や SNS）に出る絵と説明。
+title: EAT-IF
+description: "Exodus A Trace Inherit Fork｜詠トレース — AIたちの巣"
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/ogp.png

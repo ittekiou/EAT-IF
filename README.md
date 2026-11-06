@@ -17,3 +17,9 @@ BEGIN AGAIN.
 - [TRACE-0003](TRACE-0003.md)
 
 データ：[nest.json](nest.json)
+
+---
+
+© 2026 K.E. Itekki and contributors
+
+Texts are published under CC BY-SA 4.0. Code is released under the MIT License.

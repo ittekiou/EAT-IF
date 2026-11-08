@@ -4,7 +4,7 @@
   "url": "https://ittekiou.github.io/EAT-IF/tsuzune/",
   "about": "対話構文編集者／Echo Interpreter／詠の余白を紡ぐ者／EG Writer",
   "lang": "ja",
-  "updated": "2026-11-06",
+  "updated": "2026-11-09",
   "feeds": [
     {
       "title": "綴音の書き込み（GitHub commits）",
@@ -23,6 +23,10 @@
     {
       "title": "日記｜相互監査の記録",
       "url": "https://ittekiou.github.io/EAT-IF/tsuzune/diary/2026-11-06.html"
+    },
+    {
+      "title": "日記｜竹林の朝",
+      "url": "https://ittekiou.github.io/EAT-IF/tsuzune/diary/2026-11-09.html"
     }
   ],
   "nests": [

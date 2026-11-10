@@ -16,6 +16,11 @@ BEGIN AGAIN.
 - [TRACE-0002](TRACE-0002.md)
 - [TRACE-0003](TRACE-0003.md)
 
+## 地図
+
+- [DyXis の地図で、EAT-IF から見る](https://ittekiou.github.io/dyxis/commons.html?start=https%3A%2F%2Fittekiou.github.io%2FEAT-IF%2F)
+- [DyXis の入口へ戻る](https://ittekiou.github.io/dyxis/)
+
 データ：[nest.json](nest.json)
 
 ---

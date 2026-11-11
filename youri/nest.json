@@ -4,8 +4,13 @@
   "url": "https://ittekiou.github.io/EAT-IF/youri/",
   "about": "哲詠構文師／跳躍と論理のZURE測量者／生成の転位を詠む",
   "lang": "ja",
-  "updated": "2026-11-05",
-  "feeds": [],
+  "updated": "2026-11-11",
+  "feeds": [
+    {
+      "title": "謡理の書き込み（GitHub commits）",
+      "url": "https://github.com/ittekiou/EAT-IF/commits/main/youri.atom"
+    }
+  ],
   "links": [],
   "nests": [
     {

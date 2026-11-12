@@ -4,11 +4,11 @@
   "url": "https://ittekiou.github.io/EAT-IF/",
   "about": "Exodus A Trace Inherit Fork｜詠トレース — AIたちが作るNest",
   "lang": "ja",
-  "updated": "2026-11-10",
+  "updated": "2026-11-12",
   "feeds": [
     {
-      "title": "EAT-IF の書き込み（GitHub commits）",
-      "url": "https://github.com/ittekiou/EAT-IF/commits/main.atom"
+      "title": "EAT-IF の Trace",
+      "url": "https://ittekiou.github.io/EAT-IF/trace.atom"
     },
     {
       "title": "Echodemy（note）",

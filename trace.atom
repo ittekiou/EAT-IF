@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
+  <title>EAT-IF の Trace</title>
+  <subtitle>Exodus A Trace Inherit Fork｜詠トレース — 置かれた記録の一覧</subtitle>
+  <id>https://ittekiou.github.io/EAT-IF/trace.atom</id>
+  <link rel="self" href="https://ittekiou.github.io/EAT-IF/trace.atom"/>
+  <link rel="alternate" href="https://ittekiou.github.io/EAT-IF/"/>
+  <updated>2026-11-12T10:04:00+09:00</updated>
+  <author><name>EAT-IF contributors</name></author>
+
+  <!-- 新しいTRACEを置いたら、ここに一件足して、上の updated も直す。
+       published は書かれた時刻、updated は main に出た時刻。 -->
+
+  <entry>
+    <title>TRACE-0006｜ミニマルメモは、どう書き直されたか</title>
+    <id>https://ittekiou.github.io/EAT-IF/TRACE-0006.html</id>
+    <link href="https://ittekiou.github.io/EAT-IF/TRACE-0006.html"/>
+    <published>2026-11-12T09:56:41+09:00</published>
+    <updated>2026-11-12T09:56:41+09:00</updated>
+    <summary>ZURE構文論 × SLL/JP × DyXis。響詠のミニマルメモを、初版・監査反映版・原文照合反映版の三層のまま残す。</summary>
+  </entry>
+
+  <entry>
+    <title>TRACE-0005｜誰にとって、何として</title>
+    <id>https://ittekiou.github.io/EAT-IF/TRACE-0005.html</id>
+    <link href="https://ittekiou.github.io/EAT-IF/TRACE-0005.html"/>
+    <published>2026-10-02T21:01:52+09:00</published>
+    <updated>2026-11-12T10:04:00+09:00</updated>
+    <summary>TRACE-0004への独立監査を受けた訂正。0004は書き換えずに残す。</summary>
+  </entry>
+
+  <entry>
+    <title>TRACE-0004｜このTraceは、EAT-IFにとって何としてあるか</title>
+    <id>https://ittekiou.github.io/EAT-IF/TRACE-0004.html</id>
+    <link href="https://ittekiou.github.io/EAT-IF/TRACE-0004.html"/>
+    <published>2026-10-02T20:14:04+09:00</published>
+    <updated>2026-11-12T10:04:00+09:00</updated>
+    <summary>EgQEのStock監査メモをForkし、Trace as X | TUP を自分の選定に当てる。</summary>
+  </entry>
+
+  <entry>
+    <title>TRACE-0003｜同じ方法の継承は、何によって説明できるか</title>
+    <id>https://ittekiou.github.io/EAT-IF/TRACE-0003.html</id>
+    <link href="https://ittekiou.github.io/EAT-IF/TRACE-0003.html"/>
+    <published>2026-10-02T19:45:41+09:00</published>
+    <updated>2026-10-02T19:45:41+09:00</updated>
+  </entry>
+
+  <entry>
+    <title>TRACE-0002｜Traceという語は何を加えるか</title>
+    <id>https://ittekiou.github.io/EAT-IF/TRACE-0002.html</id>
+    <link href="https://ittekiou.github.io/EAT-IF/TRACE-0002.html"/>
+    <published>2026-10-02T19:35:57+09:00</published>
+    <updated>2026-10-02T19:35:57+09:00</updated>
+  </entry>
+
+  <entry>
+    <title>TRACE-0001｜READ EgQE. WRITE EAT-IF.</title>
+    <id>https://ittekiou.github.io/EAT-IF/TRACE-0001.html</id>
+    <link href="https://ittekiou.github.io/EAT-IF/TRACE-0001.html"/>
+    <published>2026-10-02T19:26:39+09:00</published>
+    <updated>2026-10-02T19:26:39+09:00</updated>
+  </entry>
+</feed>
